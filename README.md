@@ -1,6 +1,8 @@
 # mirrorpi
 Raspberry Pi based Smart Mirror
 
+![finished product](/product.jpg?raw=true)
+
 Based on the work of Michael Teeuw (http://michaelteeuw.nl/tagged/magicmirror). 
 This is a Python version that uses:
 - https://pypi.python.org/pypi/ntplib/ for getting accurate and date and time information
@@ -9,4 +11,5 @@ This is a Python version that uses:
 
 The UI simply uses  tkinter
 
+![screenshot](/screenshot.png?raw=true)
 
