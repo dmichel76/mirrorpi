@@ -13,3 +13,4 @@ The UI simply uses  tkinter
 
 ![screenshot](/screenshot.png?raw=true)
 
+How it works is simple: a monitor is used to display the program ran by the Raspberry Pi. A 2-way mirror acrylic sheet is glued on the monitor screen. Where black is displayed, the mirror acts as a normal reflective mirror. When light coloured text or images are displayed, the light from the monitor goes through and can then be seen.
