@@ -1,7 +1,7 @@
 # mirrorpi
 Raspberry Pi based Smart Mirror
 
-![finished product](/product.jpg?raw=true)
+![finished product](/product.jpg)
 
 Based on the work of Michael Teeuw (http://michaelteeuw.nl/tagged/magicmirror). 
 This is a Python version that uses:
