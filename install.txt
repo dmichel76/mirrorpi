@@ -1,0 +1,4 @@
+sudo apt-get install python-imaging-tk
+sudo pip install ntplib
+sudo pip install python-forecastio
+sudo pip install geolocation-python
